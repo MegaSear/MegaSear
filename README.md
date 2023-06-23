@@ -2,9 +2,9 @@
 
 <body>
 <img src="https://media.giphy.com/media/ToMjGpyHdJiioVfdtK0/giphy.gif" align="right" width="300" height="150" />
-&bul <p> 🌱I’m currently studying </p>
-&bul <p> 💬 Ask me about anything </p>
-&bul <p> ⚡ Fun fact </p>
+ <p> &bull 🌱I’m currently studying </p>
+ <p> &bull 💬 Ask me about anything </p>
+ <p> &bull ⚡ Fun fact </p>
 </body>
 
 <div>
