@@ -1,4 +1,4 @@
-### Hi there! 👋
+### 👋Hi there! 
 <div>
 <p> I'm Vasily and I am a student at Novosibirsk State University </p>
 </div>
