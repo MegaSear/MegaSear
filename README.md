@@ -11,7 +11,7 @@
 </body>
 
 <div id="badges">
-  <p> &#149 📫 How to reach me 
+  <p> &#149 📫 How to reach me    
   <a href="https://vk.com/vasiliykrukovskiy">
     <img src=https://img.shields.io/badge/VK-blue alt="VK Badge"/>
   </a>
