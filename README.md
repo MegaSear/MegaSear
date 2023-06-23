@@ -3,6 +3,7 @@
 <p> I'm Vasily and I am a student at Novosibirsk State University </p>
 </div>
 
+### :woman_technologist: About Me :
 <body>
 <img src="https://media.giphy.com/media/ToMjGpyHdJiioVfdtK0/giphy.gif" align="right" width="300" height="200" />
   <p>  &#149 🌱I’m currently studying </p>
