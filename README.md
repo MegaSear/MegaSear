@@ -1,6 +1,5 @@
-<head>
-<title> Hi there 👋</title>
-</head>
+### Hi there! 👋
+
 <body>
 <img src="https://media.giphy.com/media/ToMjGpyHdJiioVfdtK0/giphy.gif" align="right" width="300" height="200" />
   <p> 🌱I’m currently studying </p>
