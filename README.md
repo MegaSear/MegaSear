@@ -11,7 +11,7 @@
 <p> I'm Vasily and I am a student at Novosibirsk State University </p>
 </div>
 
-<p> 📫 How to reach me </p>
+- <p> 📫 How to reach me </p>
 <div id="badges">
   <a href="https://vk.com/vasiliykrukovskiy">
     <img src=https://img.shields.io/badge/VK-blue alt="VK Badge"/>
