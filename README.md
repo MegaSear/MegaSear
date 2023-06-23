@@ -1,4 +1,7 @@
 ### Hi there! 👋
+<div>
+<p> I'm Vasily and I am a student at Novosibirsk State University </p>
+</div>
 
 <body>
 <img src="https://media.giphy.com/media/ToMjGpyHdJiioVfdtK0/giphy.gif" align="right" width="300" height="150" />
@@ -6,10 +9,6 @@
  <p>  &#149 💬 Ask me about anything </p>
  <p>  &#149 ⚡ Fun fact </p>
 </body>
-
-<div>
-<p> I'm Vasily and I am a student at Novosibirsk State University </p>
-</div>
 
 <div id="badges">
   <p> &#149 📫 How to reach me </p>
