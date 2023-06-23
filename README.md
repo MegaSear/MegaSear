@@ -2,7 +2,7 @@
 
 <body>
 <div id="header" align="left">
-<img src="https://media.giphy.com/media/ToMjGpyHdJiioVfdtK0/giphy.gif" align="right" width="300" height="300" />
+<img src="https://media.giphy.com/media/ToMjGpyHdJiioVfdtK0/giphy.gif" align="right" width="200" height="250" />
   <p> 🌱I’m currently studying </p>
   <p> 💬 Ask me about anything </p>
   <p> ⚡ Fun fact </p>
