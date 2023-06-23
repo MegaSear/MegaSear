@@ -8,8 +8,9 @@
   <p> 📫 How to reach me </p>
 </body>
 
+<body>
 <p> I'm Vasily and I am a student at Novosibirsk State University </p>
-
+</body>
 
 
 
