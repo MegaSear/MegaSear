@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-I'm Vasily
-I am a student at Novosibirsk State University
+I'm Vasily and I am a student at Novosibirsk State University
 
 
 - 🌱I’m currently studying
