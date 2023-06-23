@@ -7,7 +7,7 @@
 <p> 💬 Ask me about anything </p>
 <p> ⚡ Fun fact </p>
 <p> 📫 How to reach me </p>
-/<body>
+</body>
 </div>
 
 I'm Vasily and I am a student at Novosibirsk State University
