@@ -2,13 +2,13 @@
 
 <body>
 <img src="https://media.giphy.com/media/ToMjGpyHdJiioVfdtK0/giphy.gif" align="right" width="300" height="150" />
-- <p> 🌱I’m currently studying </p>
-- <p> 💬 Ask me about anything </p>
-- <p> ⚡ Fun fact </p>
+ <p> 🌱I’m currently studying </p>
+ <p> 💬 Ask me about anything </p>
+ <p> ⚡ Fun fact </p>
 </body>
 
 <div>
--<p> I'm Vasily and I am a student at Novosibirsk State University </p>
+<p> I'm Vasily and I am a student at Novosibirsk State University </p>
 </div>
 
 - <p> 📫 How to reach me </p>
