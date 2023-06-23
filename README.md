@@ -23,7 +23,8 @@
 </div>  
 
 ### :fire: My Stats :
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=megasear)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api?username=megasear&theme=algolia&show_icons=true)](https://github.com/megasear)
+[![MegaSear's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=megasear&hide=c,cpp,python,shell,dockerfile&theme=algolia&show_icons=true)](https://github.com/megasear)
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
