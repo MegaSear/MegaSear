@@ -5,7 +5,7 @@
 
 ### :woman_technologist: About Me :
 <body>
-<img src="https://media.giphy.com/media/ToMjGpyHdJiioVfdtK0/giphy.gif" align="right" width="400" height="200" />
+<img src="https://media.giphy.com/media/fygfeYhDOPrhTOHZ7v/giphy.gif" align="right" width="400" height="200" />
   <p>  &#149 🌱I’m currently studying </p>
   <p>  &#149 💬 Ask me about anything </p>
   <p>  &#149 ⚡ Fun facts: </p>
