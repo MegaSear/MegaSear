@@ -13,7 +13,7 @@
 <div id="badges">
   <p> &#149 📫 How to reach me    
   <a href="https://vk.com/vasiliykrukovskiy">
-    <img src=https://img.shields.io/badge/VK-blue alt="VK Badge"/>
+    <img src=https://img.shields.io/badge/VK-blue?style=for-the-badge alt="VK Badge"/>
   </a>
   </p>
 </div>  
