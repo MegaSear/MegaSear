@@ -1,3 +1,9 @@
+<style>
+div {
+    height: 400px;
+    background: linear-gradient(to bottom, #33ccff 0%, #ff99cc 100%)
+}
+</style>
 <div>
 <h3><b>👋Hi there! </b></h3>
 <p> I'm Vasily and I am a student at Novosibirsk State University. </p>
