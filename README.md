@@ -1,10 +1,14 @@
 <!DOCTYPE html>
 <html>
+  
+----------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <div>
 <h3><b>👋Hi there! </b></h3>
 <p> I'm Vasily and I am a student at Novosibirsk State University. </p>
 </div>
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <body>
 <img src="https://media.giphy.com/media/fygfeYhDOPrhTOHZ7v/giphy.gif" align="right" width="350" height="500" />
@@ -25,9 +29,11 @@
   </p>
 </div>  
 
--------------------------------------------------------------------------
+-------------------------------------------------------------------------------
 ### :fire: My Stats :
 [![Top Langs](https://github-readme-stats.vercel.app/api?username=megasear&theme=algolia&show_icons=true)](https://github.com/megasear)
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
@@ -59,5 +65,7 @@
   <img src="https://user-images.githubusercontent.com/19886419/32435832-6b851fe8-c2e2-11e7-8930-814b5045c3f6.jpg" title="Cuda"  alt="Cuda" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" title="Selenium"  alt="Selenium" width="50" height="50"/>&nbsp;
 </div>
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------
 
 </html>
