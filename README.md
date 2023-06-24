@@ -4,6 +4,7 @@
 <div>
 <h3><b>👋Hi there! </b></h3>
 <p> I'm Vasily and I am a student at Novosibirsk State University. </p>
+<span style="color:blue">some *blue* text</span>.
 </div>
 
 <body>
