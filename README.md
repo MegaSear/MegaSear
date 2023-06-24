@@ -33,6 +33,7 @@
 <h3><b> :fire: My Stats :</b></h3>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api?username=megasear&theme=algolia&show_icons=true)](https://github.com/megasear)
+</br>
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------
 
