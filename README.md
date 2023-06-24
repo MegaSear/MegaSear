@@ -1,3 +1,4 @@
+<html>
 <style>
 div {
     height: 400px;
@@ -64,3 +65,4 @@ div {
   <img src="https://user-images.githubusercontent.com/19886419/32435832-6b851fe8-c2e2-11e7-8930-814b5045c3f6.jpg" title="Cuda"  alt="Cuda" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" title="Selenium"  alt="Selenium" width="40" height="40"/>&nbsp;
 </div>
+</html>
