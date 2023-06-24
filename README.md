@@ -56,10 +56,9 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="Pandas"  alt="Pandas" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original-wordmark.svg" title="CV"  alt="CV" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" title="Selenium"  alt="Selenium" width="50" height="50"/>&nbsp;
-</div>
   <img src="https://user-images.githubusercontent.com/19886419/32435832-6b851fe8-c2e2-11e7-8930-814b5045c3f6.jpg" title="Cuda"  alt="Cuda" width="50" height="50"/>&nbsp;
+</div>
   
-
 ----------------------------------------------------------------------------------------------------------------------------------------------------------
 
 </html>
