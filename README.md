@@ -3,8 +3,8 @@
 <p> I'm Vasily and I am a student at Novosibirsk State University. </p>
 </div>
 
-### :woman_technologist: About Me :
 <body>
+  <b>👩‍💻About Me :</b>
 <img src="https://media.giphy.com/media/fygfeYhDOPrhTOHZ7v/giphy.gif" align="right" width="350" height="500" />
   <p>  &#149 🌱 I’m currently studying artifical intelligence. </p>
   <p>  &#149 💬 Ask me about anything. </p>
