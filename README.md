@@ -9,8 +9,6 @@
   <p>  &#149 🌱 I’m currently studying artifical intelligence. </p>
   <p>  &#149 💬 Ask me about anything. </p>
   <p>  &#149 ⚡ Plans and dreams: Work in neurobiology and artificial intelligence. </p>
-   <br/>
-   <br/>
 </body>
 
 <div id="badges">
@@ -23,10 +21,8 @@
     </a>
   </p>
 </div>  
-
-
-
-
+<br/>
+<br/>
 -------------------------------------------------------------------------
 ### :fire: My Stats :
 [![Top Langs](https://github-readme-stats.vercel.app/api?username=megasear&theme=algolia&show_icons=true)](https://github.com/megasear)
