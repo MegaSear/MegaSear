@@ -8,7 +8,7 @@
 <img src="https://media.giphy.com/media/fygfeYhDOPrhTOHZ7v/giphy.gif" align="right" width="350" height="500" />
   <p>  &#149 🌱 I’m currently studying artifical intelligence. </p>
   <p>  &#149 💬 Ask me about anything. </p>
-  <p>  &#149 ⚡ Plans and dreams: </p>
+  <p>  &#149 ⚡ Plans and dreams: Work in neurobiology and artificial intelligence. </p>
 </body>
 
 <div id="badges">
