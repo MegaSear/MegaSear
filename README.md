@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <style>
-ground {
+.ground {
     background: linear-gradient(to top left, #003366 0%, #ff99cc 100%);
 }
 </style>
