@@ -30,12 +30,13 @@
 </div>  
 
 -------------------------------------------------------------------------------
-### :fire: My Stats :
+<h3><b> :fire: My Stats :</b></h3>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api?username=megasear&theme=algolia&show_icons=true)](https://github.com/megasear)
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### :hammer_and_wrench: Languages and Tools :
+<h3><b> :hammer_and_wrench: Languages and Tools :</b></h3>
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C"  alt="C" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C"  alt="C" width="50" height="50"/>&nbsp;
