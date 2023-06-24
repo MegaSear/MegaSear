@@ -20,9 +20,10 @@
       <img src="https://img.shields.io/badge/telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge" align="center"/>
     </a>
   </p>
+<br/>
+<br/>
 </div>  
-<br/>
-<br/>
+
 -------------------------------------------------------------------------
 ### :fire: My Stats :
 [![Top Langs](https://github-readme-stats.vercel.app/api?username=megasear&theme=algolia&show_icons=true)](https://github.com/megasear)
