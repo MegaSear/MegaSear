@@ -15,7 +15,7 @@
   <h3><b>👩‍💻About Me :</b></h3>
   <p>  &#149 🌱 I’m currently studying <b><em>artifical intelligence</em></b>. </p>
   <p>  &#149 💬 Ask me about <b><em>anything</em></b>. </p>
-  <p>  &#149 ⚡ Plans and dreams: <b><em>work in neurobiology and artificial intelligence</em></b>. </p>
+  <p>  &#149 ⚡ Plans and dreams: <b><em>work in neurobiology and work on general artificial intelligence</em></b>. </p>
 </body>
 
 <div id="badges">
