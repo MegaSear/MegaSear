@@ -15,7 +15,7 @@
 <!-- <img src="https://media.giphy.com/media/wwg1suUiTbCY8H8vIA/giphy-downsized-large.gif" align="right" width="350" height="500" /> --> 
 <img src="https://media.giphy.com/media/wwg1suUiTbCY8H8vIA/giphy-downsized-large.gif" align="right" width="350" height="500" />
   <h3><b>👩‍💻About Me :</b></h3>
-  <p>  &#149 🌱 I’m currently studying <b><em>artifical intelligence</em></b>. </p>
+  <p>  &#149 🌱 I’m currently studying <b><em>math stat</em></b>. </p>
   <p>  &#149 💬 Ask me about <b><em>anything</em></b>. </p>
   <p>  &#149 ⚡ Plans and dreams: <b><em>work in neurobiology and work on AGI</em></b>. </p>
 </body>
