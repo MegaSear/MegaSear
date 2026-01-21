@@ -5,7 +5,7 @@
 
 <div>
 <h3><b>👋Hi there! </b></h3>
-<p> I am a student at Novosibirsk State University. </p>
+<p> I am a Master's degree from Ural Federal University. </p>
 </div>
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------
