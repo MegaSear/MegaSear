@@ -21,7 +21,7 @@
 
 <div id="badges">
   <p> &#149 📫 How to reach me: &nbsp;   
-    <a href="https://vk.com/vasiliykrukovskiy">
+    <a href="https://vk.com/seargamemode">
       <img src="https://img.shields.io/badge/VK-black?style=for-the-badge&logo=vk&logoColor=white" alt="VK Badge" align="center"/>
     </a>
     <a href="https://t.me/SearGamemode">
