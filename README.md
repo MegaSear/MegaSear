@@ -36,6 +36,5 @@
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MegaSear&theme=tokyonight"/>
 </div>
-----------------------------------------------------------------------------------------------------------------------------------------------------------
 
 </html>
