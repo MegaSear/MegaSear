@@ -5,58 +5,36 @@
 
 <div>
 <h3><b>👋Hi there! </b></h3>
-<p> I am a Master's degree from Ural Federal University. </p>
 </div>
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <body>
 <!-- <img src="https://media.giphy.com/media/fygfeYhDOPrhTOHZ7v/giphy.gif" align="right" width="350" height="500" /> --> 
-<!-- <img src="https://media.giphy.com/media/wwg1suUiTbCY8H8vIA/giphy-downsized-large.gif" align="right" width="350" height="500" /> --> 
 <img src="https://media.giphy.com/media/wwg1suUiTbCY8H8vIA/giphy-downsized-large.gif" align="right" width="350" height="500" />
-  <h3><b>👩‍💻About Me :</b></h3>
-  <p>  &#149 💬 Ask me about <b><em>anything</em></b>. </p>
-  <p>  &#149 ⚡ Plans and dreams: <b><em>work on AGI</em></b>. </p>
-</body>
-
-<div id="badges">
-  <p> &#149 📫 How to reach me: &nbsp;   
-    <a href="https://vk.com/seargamemode">
-      <img src="https://img.shields.io/badge/VK-black?style=for-the-badge&logo=vk&logoColor=white" alt="VK Badge" align="center"/>
-    </a>
+  <h3><b>👩‍💻About Me </b></h3>
+  <p> &#149 🎓 Education: <b><em> Master's Student in CS and Math, Bachelor's Degree in Deep Robotics </em></b>. </p>
+  <p> &#149 📫 Contacts: &nbsp; 
     <a href="https://t.me/SearGamemode">
       <img src="https://img.shields.io/badge/telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge" align="center"/>
     </a>
   </p>
-</div>  
+</body>
 
 ------------------------------------------------------------------------------------------------------------------
 
-<h3><b> :hammer_and_wrench: Languages and Tools :</b></h3>
+<h3>🛠️ Skills </h3>
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C"  alt="C" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++"  alt="C++" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="50" height="50"/>&nbsp;
-  
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="VC"  alt="VC" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/kaggle/kaggle-original-wordmark.svg" title="Kaggle" alt="Kaggle" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original-wordmark.svg" title="Arduino" alt="Arduino" width="50" height="50"/>&nbsp;
-  
-  <img src="https://raw.githubusercontent.com/valohai/ml-logos/d8dfb916e50a93a41f3b1ed2ca7bd3dbc77030a2/pytorch.svg" title="PyTorch"  alt="PyTorch" width="60" height="60"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original-wordmark.svg" title="CV"  alt="CV" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" title="Selenium"  alt="Selenium" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg" title="Scikit-Learn"  alt="Scikit-Learn" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker"  alt="Scikit-Learn" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original.svg" title="FastApi"  alt="FastApi" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux"  alt="Linux" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" title="numpy"  alt="numpy" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="pandas"  alt="pandas" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/qt/qt-original.svg" title="qt"  alt="qt" width="50" height="50"/>&nbsp;
-  
-  
-  
+  <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logoColor=white" alt="ML"/>
+  <img src="https://img.shields.io/badge/Deep%20Learning-8A2BE2?style=for-the-badge&logoColor=white" alt="DL"/>
+  <img src="https://img.shields.io/badge/LLM%20Inference-00897B?style=for-the-badge&logoColor=white" alt="LLM Inference"/>
+  <img src="https://img.shields.io/badge/Computer%20Vision-1565C0?style=for-the-badge&logoColor=white" alt="CV"/>
 </div>
 
+<h3>📊 GitHub Stats</h3>
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MegaSear&theme=tokyonight"/>
+</div>
 ----------------------------------------------------------------------------------------------------------------------------------------------------------
 
 </html>
