@@ -29,6 +29,7 @@
   <img src="https://img.shields.io/badge/Deep%20Learning-8A2BE2?style=for-the-badge&logoColor=white" alt="DL"/>
   <img src="https://img.shields.io/badge/LLM%20Inference-00897B?style=for-the-badge&logoColor=white" alt="LLM Inference"/>
   <img src="https://img.shields.io/badge/Computer%20Vision-1565C0?style=for-the-badge&logoColor=white" alt="CV"/>
+  <img src="https://img.shields.io/badge/Reinforcment%20Learning-FF0010?style=for-the-badge&logoColor=red" alt="RL"/>
 </div>
 
 <h3>📊 GitHub Stats</h3>
